@@ -20,6 +20,12 @@ Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
 ```
+Developed by : Prasannalakshmi G
+Reg No : 212222240075
+Deot : AI&ML
+
+```
+```
 !pip install pybbn
 
 import pandas as pd
