@@ -74,8 +74,8 @@ options ={
 "font_size": 16,
 "node_size": 4000,
 "node_color": "white",
-"edgecolors": "blue",
-"edge_color": "red",
+"edgecolors": "pink",
+"edge_color": "purple",
 "linewidths": 5,
 "width": 5,
 }
@@ -88,7 +88,8 @@ plt.axis("off")
 plt.show()
 ```
 ## Output:
-![image](https://github.com/Prasannalakshmiganesan/Bayesian-Network/assets/118610231/9ef841a6-3b40-40b3-9f09-250a0fd7022c)
+![image](https://github.com/Prasannalakshmiganesan/Bayesian-Network/assets/118610231/46583437-dbcd-4819-abae-8c5978c7695e)
+
 
 ## Result:
    Thus a Bayesian Network is generated using Python
