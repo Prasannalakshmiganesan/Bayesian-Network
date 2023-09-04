@@ -25,7 +25,7 @@ Reg No : 212222240075
 Deot : AI&ML
 
 ```
-```
+```python
 !pip install pybbn
 
 import pandas as pd
