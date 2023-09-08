@@ -94,7 +94,8 @@ plt.axis("off")
 plt.show()
 ```
 ## Output:
-![image](https://github.com/Prasannalakshmiganesan/Bayesian-Network/assets/118610231/46583437-dbcd-4819-abae-8c5978c7695e)
+![image](https://github.com/Prasannalakshmiganesan/Bayesian-Network/assets/118610231/3f55eedf-b786-413f-bf9c-dc51af56516f)
+
 
 
 ## Result:
